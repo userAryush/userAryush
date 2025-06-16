@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/django-python-framework-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--html-web-technologies-pack-logos-animations-9717095.mp4))]
+![My Image](./images/image.png)
+
 <h1 align="center">Hi 👋, I'm Aryush Khatri</h1>
 <h3 align="center">A passionate Django developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
