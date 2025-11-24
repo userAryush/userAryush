@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Django developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=useraryush&label=Profile%20views&color=0e75b6&style=flat" alt="useraryush" /> </p>
+
 
 - 🌱 I’m currently learning **React, Exploring Django more**
 
