@@ -1,4 +1,4 @@
-![My Image](./images/image.png)
+
 
 <h1 align="center">Hi 👋, I'm Aryush Khatri</h1>
 <h3 align="center">A passionate Django developer from Nepal</h3>
